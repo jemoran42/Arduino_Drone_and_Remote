@@ -1,0 +1,17 @@
+project_files/Flight_Controller_files/Flight_Controller_Communications_Test/*
+!project_files/Flight_Controller_files/Flight_Controller_Communications_Test/*.ino
+
+project_files/Remote_Control_files/Remote_Control/*
+!project_files/Remote_Control_files/Remote_Control/*.ino
+
+testing_modules/MPU-6050/MPU-6050_IMU/*
+!testing_modules/MPU-6050/MPU-6050_IMU/*.ino
+
+testing_modules/MPU-6050/myMPU/*
+!testing_modules/MPU-6050/myMPU/*.ino
+
+testing_modules/RF_module/RF_HelloWorld_RX/*
+!testing_modules/RF_module/RF_HelloWorld_RX/*.ino
+
+testing_modules/RF_module/RF_HelloWorld_TX/*
+!testing_modules/RF_module/RF_HelloWorld_TX/*.ino
